@@ -1,0 +1,12 @@
+#section{
+    Width: 1200;}
+#aside {
+    Width: 30%;
+    float: left;}
+#article{
+    width: 86%;
+    margin-left: 2%;
+    float:left;}
+#footer{
+    clear: left;}
+    

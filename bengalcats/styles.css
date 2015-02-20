@@ -1,0 +1,18 @@
+aside{
+    background-color: #FFDEE4 ;
+    float: left;
+    border: ridge;
+    padding: 5px 0px;
+    color: #075244;
+}
+.lstyle {
+    list-style: none;
+    border: ridge;
+    border-left: ridge;
+    margin: 6px 5px;
+}
+
+aside:hover{
+    background-color: #520715;
+    border-color: #520715 ;
+}
